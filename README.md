@@ -1,4 +1,12 @@
-### Hi there 👋
+### A little bit about myself 👋
+
+💻 A dedicated software engineer, started my career in a full-stack position <br/>
+🖱️ Then moved my focus to Frontend, and now working mostly with React/React Native <br/>
+⌨️ Have experience in different areas such as fintech, e-commerce, and education, and etc<br/>
+🏳️ Have been building websites, mobile apps, web crawlers, data analysis tools, and etc
+
+<img src="https://media.giphy.com/media/3o6ZsXhBzpoRApBkPK/giphy.gif" width="320" height="200" /> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" height="200" />
+
 
 <!--
 **nnabinh/nnabinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
